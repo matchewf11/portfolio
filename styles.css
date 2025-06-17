@@ -1,5 +1,10 @@
 body {
-    background-color: gray;
+    background-color: #FFFEE5;
+    margin: 5% 15%;
+}
+
+a {
+    color: #87CEEB;
 }
 
 img {
@@ -10,13 +15,11 @@ img {
 }
 
 h1 {
-    text-align: center;
     font-size: 40px;
 }
 
 h2 {
     font-size: 30px;
-    text-align: center;
 }
 
 h3 {
